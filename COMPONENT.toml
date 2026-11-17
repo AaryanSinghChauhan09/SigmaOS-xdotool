@@ -3,7 +3,7 @@ name = "SigmaOS-xdotool"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "xdotool component"
+description = "SigmaOS SigmaOS-xdotool component"
 upstream = []
 
 [contract]
